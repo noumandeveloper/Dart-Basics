@@ -8,7 +8,7 @@ void main() {
   print(a);
   print(a.runtimeType);
   //string
-  a= "Ali";
+  a= "Nouman";
   print(a);
   print(a.runtimeType);
   //bool
