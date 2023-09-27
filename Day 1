@@ -32,7 +32,7 @@ print(list.runtimeType);
 //----------------------------maps-------------------------------
 //The maps type is used to store values in key-value pairs. Each key is associated with its value. The key and value can be any type. In Map, the key must be unique, 
 //but a value can occur multiple times. The Map is defined by using curly braces ({}), and comma separates each pair.
-var student= {'Name':'abrar','age':'20'};
+var student= {'Name':'Nouman','age':'20'};
 print(student);
 //---------------------------Runes------------------------------
 //As we know that, the strings are the sequence of Unicode UTF-16 code units. Unicode is a technique which is used to describe a unique numeric value for each digit, letter, and symbol.
